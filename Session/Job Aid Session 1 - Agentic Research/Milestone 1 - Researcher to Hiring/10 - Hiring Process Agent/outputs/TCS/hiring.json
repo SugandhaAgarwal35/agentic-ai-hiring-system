@@ -1,0 +1,113 @@
+{
+  "company_name": "TCS",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer",
+      "role_category": "SDE",
+      "job_description": "Design, develop, and test software applications",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1200000.0,
+      "bonus": "10% of CTC",
+      "benefits_summary": "Medical insurance, retirement plan, paid time off",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Aptitude Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "What is your greatest strength and weakness?; Can you solve this logical puzzle?; How would you approach this problem?"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Write a program to reverse a string; Implement a binary search algorithm; What is the time complexity of this code?"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain the difference between a stack and a queue; How would you implement a hash table?; What is the trade-off between time and space complexity?"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Explain the concept of object-oriented programming; Write a program to find the maximum value in an array; How would you optimize this code?"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain the concept of dynamic programming; How would you solve this problem using recursion?; What is the time complexity of this algorithm?"
+            },
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Explain the concept of system design; How would you design a scalable system?; What are the trade-offs between different system design approaches?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Data Analyst Intern",
+      "role_category": "Data_Analyst",
+      "job_description": "Analyze data to gain insights and inform business decisions",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 25000.0,
+      "bonus": null,
+      "benefits_summary": "Paid internship with opportunities for full-time employment",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Write a program to find the average value in an array; Implement a simple regression algorithm; How would you handle missing data?"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write a query to retrieve data from a database; How would you optimize this query?; What is the difference between a join and a subquery?"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain the concept of machine learning; How would you implement a simple neural network?; What are the limitations of deep learning?"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Explain the concept of data structures; How would you implement a hash table?; What is the time complexity of this code?"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain the concept of algorithms; How would you solve this problem using dynamic programming?; What is the trade-off between time and space complexity?"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain the importance of communication in data analysis; How would you present complex data insights to a non-technical audience?; What are the key elements of a effective data story?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
