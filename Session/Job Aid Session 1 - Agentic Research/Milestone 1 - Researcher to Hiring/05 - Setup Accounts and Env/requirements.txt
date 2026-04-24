@@ -1,0 +1,24 @@
+# Core LangChain
+langchain
+langchain-core
+
+# Providers
+langchain-groq
+langchain-google-genai
+langchain-cerebras
+langchain-openai
+
+# Validation + env
+pydantic
+python-dotenv
+
+# Milestone 2 — graph + tracing
+langgraph
+langsmith
+
+# Test harness (used by Milestone 2 validators + any pytest smoke)
+pytest
+
+
+sqlmodel
+psycopg2-binary
